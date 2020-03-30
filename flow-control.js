@@ -14,11 +14,11 @@ function ageChecker(age) {
 
 function ternaryTeenager(age) {
   if (true) {
-    
+
   } else {
-    
+
   }
-  
+
 
 }
 
